@@ -1,3 +1,10 @@
+/*
+ * Code adapted from "testSingleDigit" by Nathan Seidle 
+ * of Sparkfun Electronics (2015).
+ * By: Lucas Otanez
+ * Date: May 11th, 2022
+ */
+
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
@@ -223,7 +230,7 @@ void restartTimer()
   tenMinutes = 0;
 }
 
-//Takes a number and displays 2 numbers. Displays absolute value (no negatives)
+//Takes a number and displays 5 numbers. Displays absolute value (no negatives)
 void showNumber(float value, float value2, float value3, float value4, float value5)
 {
   int number = abs(value); //Remove negative signs and any decimals
@@ -231,7 +238,7 @@ void showNumber(float value, float value2, float value3, float value4, float val
   int minutes = abs(value4);
   int tenSeconds = abs(value3);
   int tenMinutes = abs(value5);
-  //Serial.print("number: ");
+  //Serial.print("number: "); //debugging
   //Serial.println(number);
 
   for (byte x = 0 ; x < 2 ; x++)
@@ -323,7 +330,7 @@ void postNumber(byte number, boolean decimal)
   if (decimal) segments |= dp;
 
   //Clock these bits out to the drivers
-  for (byte x = 0 ; x < 8 ; x++)
+  for (byte x = 0 ; x < 8 ; x++) //8 digits
   {
     digitalWrite(segmentClock, LOW);
     digitalWrite(segmentData, segments & 1 << (7 - x));
