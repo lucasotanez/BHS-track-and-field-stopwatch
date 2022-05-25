@@ -19,4 +19,5 @@ a foot pressure sensor and a laser sensor for starting and stopping the runner's
 - lasercut using the included CAD files or manually cut a box for the displays
 - daisy chain and solder the large digit drivers for all 6 displays (see image)
 - connect all wires to the correct GPIO pins on the board, driver, and breadboard using the pinout diagram
-- upload the Arduino code '
+- upload the Arduino code file 'trackTimer.ino' to the board
+- finally, test all buttons and sensors and make sure all is working properly (see video for demonstrations)
