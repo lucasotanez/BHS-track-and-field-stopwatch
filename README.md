@@ -13,6 +13,7 @@ a foot pressure sensor and a laser sensor for starting and stopping the runner's
 - jumper wires, resistors, LEDs
 - assorted M4 screws
 - a box or frame to mount the displays
+- 12V power supply
 
 ## instructions
 
