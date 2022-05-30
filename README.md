@@ -14,6 +14,8 @@ a foot pressure sensor and a laser sensor for starting and stopping the runner's
 - assorted M4 screws
 - a box or frame to mount the displays
 - 12V power supply
+- 2 push buttons (any style)
+- *optional* foot pressure pad sensor and laser trip sensor
 
 ## instructions
 
