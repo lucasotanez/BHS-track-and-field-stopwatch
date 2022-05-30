@@ -25,3 +25,7 @@ a foot pressure sensor and a laser sensor for starting and stopping the runner's
 - connect all wires to the correct GPIO pins on the board, driver, and breadboard using the pinout diagram
 - upload the Arduino code file 'trackTimer.ino' to the board
 - finally, test all buttons and sensors and make sure all is working properly (see video for demonstrations)
+
+demo:
+
+ file:///home/lucas/Downloads/timerDemo.mp4
