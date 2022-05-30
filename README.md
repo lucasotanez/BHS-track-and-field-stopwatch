@@ -28,4 +28,4 @@ a foot pressure sensor and a laser sensor for starting and stopping the runner's
 
 demo:
 
- file:///home/lucas/Downloads/timerDemo.mp4
+file:///home/lucas/Downloads/timerDemo.mp4
