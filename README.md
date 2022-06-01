@@ -29,3 +29,5 @@ a foot pressure sensor and a laser sensor for starting and stopping the runner's
 demo:
 
 https://user-images.githubusercontent.com/72469916/171058819-89fa432c-c79e-4eef-baa5-21803a410552.mp4
+
+![trackAndFieldPinoutDiagram](https://user-images.githubusercontent.com/72469916/171338873-619f0edf-5feb-471e-936f-c65a8f4ea081.png)
