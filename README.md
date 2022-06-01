@@ -32,4 +32,4 @@ https://user-images.githubusercontent.com/72469916/171058819-89fa432c-c79e-4eef-
 
 wiring diagram:
 
-![trackAndFieldPinoutDiagram](https://user-images.githubusercontent.com/72469916/171338873-619f0edf-5feb-471e-936f-c65a8f4ea081.png)
+![trackAndFieldWiringDiagram](https://user-images.githubusercontent.com/72469916/171339240-2032c74f-4808-402b-860f-f4d3064648b5.png)
